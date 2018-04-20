@@ -1,0 +1,129 @@
+.cvg_settings li span {
+	color: #2583AD;
+	font-weight: bold;
+}
+.cvg-slideshow-content {
+	top: 0;
+	list-style-type: none !important;
+	margin-left: 0px !important;
+}
+
+.cvg-clear {
+	clear: both;
+}
+.cvg-admin-overview {
+	padding: 10px;
+}
+.cvg-align-left {
+	float:left;
+}
+.cvg-uninstall-button {
+	background-color:#a00 !important;
+	text-shadow:none !important;
+	border-color:#a00 !important;
+}
+.cvg-gallery-settings-left-pane {
+	float:left;
+	width:35%;
+}
+.cvg-gallery-settings-right-pane {
+	float:left;
+}
+.cvg-gallery-settings-right-pane i, .cvg-gallery-settings-left-pane i, .cvg-gallery-settings-left-pane h4 i {
+	font-size:10px !important;
+}
+.cvg-gallery-sort-outer {
+	float:left;
+	border:1px SOLID #CCC;
+	padding:5px;
+}
+.cvg-html5-youtube-error {
+	padding:10px;
+	text-align:center;
+	height:100%;
+	position: relative;
+}
+.cvg-html5-youtube-error-inner {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%,-50%);
+  width: 200px;
+  height: 200px;
+}
+.cvg-html5-youtube-error-inner p {
+	font-size: 15px;
+	margin-top: 20px;
+}
+
+
+.cvg-single-video-wrapper-title {
+	display:inline-block;
+	text-align:center;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin-top: 10px;
+}
+.cvg-single-video-wrapper {
+	/* border: 1px solid black; */
+	box-shadow: 0px 1px 5px black;
+	display:inline-block;
+}
+
+.cvg-gallery-slideshow {
+    position:relative;
+    display:inline-block;
+}
+.cvg-gallery-slideshow SPAN {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    opacity:0.0;
+}
+
+.cvg-gallery-slideshow SPAN.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+.cvg-gallery-slideshow SPAN.last-active {
+    z-index:9;
+}
+
+.cvg-gallery-slideshow SPAN IMG {
+    display: block;
+    border: 0;
+	box-shadow: 0px 1px 5px black;
+}
+.cvg-gallery-slideshow SPAN LABEL {
+	text-align:center;
+	display:inline-block;
+	width: 100%;
+	margin-top: 10px;
+}
+.cvg-playlist-title-outside {
+ 	display: block;
+}
+.cvg-playlist-title-outside label {
+	display: inline-block;
+	width: inherit;
+	word-wrap: break-word;
+}
+.cvg-gallery-showcase-videos {
+	float:left;
+	margin-right:10px;
+	margin-bottom: 30px;
+	box-shadow: 0px 1px 5px black;
+}
+.cvg-gallery-showcase-videos a {
+	line-height: 0px;
+}
+.cvg-gallery-showcase {
+	display: inline-block;
+}
+.cvg-gallery-showcase span span {
+	text-align:center;
+	width:100%;
+	display:inline-block;
+}
