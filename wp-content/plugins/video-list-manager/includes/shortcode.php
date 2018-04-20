@@ -14,7 +14,7 @@ add_shortcode('tnt_video', 'tntSCVideo');
  */
 function tntGetYoutubeEmbedLink($link)
 {
-	$youtubeEmbedLink = 'http://www.youtube.com/embed/';
+	$youtubeEmbedLink = 'https://www.youtube.com/embed/';
 	$l = explode('?v=', $link);
 	$embedCode = $l[1];
 	$youtubeEmbedLink .= $embedCode;
@@ -28,7 +28,7 @@ function tntGetYoutubeThumbLink($link)
 {
 	$l = explode('?v=', $link);
 	$embedCode = $l[1];
-	$youtubeThumbLink = 'http://img.youtube.com/vi/'.$embedCode.'/mqdefault.jpg';
+	$youtubeThumbLink = 'https://img.youtube.com/vi/'.$embedCode.'/mqdefault.jpg';
 	return $youtubeThumbLink;
 }
 
