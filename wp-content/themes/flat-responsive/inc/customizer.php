@@ -906,7 +906,7 @@ $wp_customize->get_section('title_tagline')->panel = 'site_title_and_taglines';
 
 	// logo title padding
 	$wp_customize->add_setting( 'titlepadding', array(
-		'default'        => '20px 0px 15px 0px',
+		'default'        => '0 0 0 0',
 		'sanitize_callback' => 'flat_responsive_sanitize_text',
 	) );
 	$wp_customize->add_control( 'titlepadding', array(
