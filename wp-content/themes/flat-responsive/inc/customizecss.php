@@ -241,7 +241,7 @@ ul.navmenu ul.sub-menu > li  {
 
 /*site title */
 #fr-site-title a {color:<?php echo esc_html(get_theme_mod('sitetitle')); ?>;}
-#fr-logo-group, #fr-text-group {padding: <?php echo esc_html(get_theme_mod('titlepadding', '20px 0px 0px 0px'));?>}
+#fr-logo-group, #fr-text-group {padding: <?php echo esc_html(get_theme_mod('titlepadding', '0 0 0 0'));?>}
             
 /*Navmenu Customizer */
 
