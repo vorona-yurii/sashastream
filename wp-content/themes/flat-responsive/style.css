@@ -1441,14 +1441,14 @@ ul.footer > li:first-child:before {
 	content:"";
 }
 ul.footer > li:before {
-	content:"|";
-	font-family:FontAwesome;
-	margin-right:5px;
+
 }
 ul.footer > li:hover {
 	opacity:0.7;
 }
-
+ul.footer > li a{
+	font-size: 12px;
+}
 /*
 ============================================================
 @ WRAPPERS

@@ -57,16 +57,16 @@ get_header(); ?>
                                 <em style="color: red;">Бонусы дают при депозите от 1000р.</em>
                             </p>
                         </div>
-                        <a href="http://bit.ly/2fiYBGH" class="playbtn">Играть</a>
+                        <a href="https://goo.gl/f6Rbi4" target="_blank" class="playbtn">Играть</a>
                     </div>
                 </article>
                 <article class="action-post col-md-4 col-sm-6 col-xs-12">
                     <div class="padding" data-mh="offers">
-                        <img src="wp-content/themes/flat-responsive/images/playfortuna-300x140.png"">
+                        <img src="wp-content/themes/flat-responsive/images/buran.png"">
                         <div class="desc">
                             <p><strong>30 БЕСПЛАТНЫХ</strong> спинов в&nbsp;игре Butterfly Staxx за регистрацию и <strong>100% на депозит</strong></p>
                         </div>
-                        <a href="http://bit.ly/2fiWe6B" class="playbtn">Играть</a>
+                        <a href="https://goo.gl/y53ZDp" target="_blank" class="playbtn">Играть</a>
                     </div>
                 </article>
                 <article class="action-post col-md-4 col-sm-6 col-xs-12">
@@ -75,34 +75,34 @@ get_header(); ?>
                         <div class="desc"><p>Бонус <strong>200%</strong> до <strong>100 000 рублей</strong>
                                 <br> + <strong>200</strong> бесплатных спинов в игре <strong>Vikings Go Berzerk</strong><br>
                                 <em style="color: red;">Бонусы дают при депозите от 1000р.</em></p></div>
-                        <a href="http://bit.ly/2wyj0Pb" class="playbtn">Играть</a>
+                        <a href="https://goo.gl/b2mWMp" target="_blank" class="playbtn">Играть</a>
                     </div>
                 </article>
                 <article class="action-post col-md-4 col-sm-6 col-xs-12">
                     <div class="padding" data-mh="offers">
-                        <img src="wp-content/themes/flat-responsive/images/goldfishka-300x140.png">
+                        <img src="wp-content/themes/flat-responsive/images/cadoola-logo-150.png">
                         <div class="desc">
                             <p><strong>100% на депозит</strong> и ежедневный <strong>cashback</strong></p>
                         </div>
-                        <a href="http://bit.ly/2wxbjsB" class="playbtn">Играть</a>
+                        <a href="https://goo.gl/q8H1KM" target="_blank" class="playbtn">Играть</a>
                     </div>
                 </article>
                 <article class="action-post col-md-4 col-sm-6 col-xs-12">
                     <div class="padding" data-mh="offers">
-                        <img src="wp-content/themes/flat-responsive/images/frankcasino-300x140.png">
+                        <img src="wp-content/themes/flat-responsive/images/redpingwin.jpg">
                         <div class="desc"><p>Бонус <strong>200 euro на депозит</strong> + <strong>100 спинов</strong></p>
                             <p>Бонус-код активируется только при регистрации по ссылке</p>
                         </div>
-                        <a href="http://bit.ly/2wxzDe6" class="playbtn">Играть</a>
+                        <a href="https://goo.gl/oKpEFz" target="_blank" class="playbtn">Играть</a>
                     </div>
                 </article>
                 <article class="action-post col-md-4 col-sm-6 col-xs-12">
                     <div class="padding" data-mh="offers">
-                        <img src="wp-content/themes/flat-responsive/images/slotsv-300x140.png">
+                        <img src="wp-content/themes/flat-responsive/images/yoyo.png">
                         <div class="desc"><p><strong>Бонус до 30000 рублей</strong> на депозит + <strong>175 фри спинов</strong></p>
                             <p>Бонус-код активируется только при регистрации по ссылке</p>
                         </div>
-                        <a href="http://bit.ly/2xPC63y" class="playbtn">Играть</a>
+                        <a href="https://goo.gl/zAJvsa" target="_blank" class="playbtn">Играть</a>
                     </div>
                 </article>
             </div>
