@@ -42,8 +42,8 @@ get_header(); ?>
     <section id="features">
         <div class="container">
             <div class="row">
-                <div id="wysiwyg_widgets_widget-3" class="widget widget_wysiwyg_widgets_widget">
-                    <h2>ЭКСКЛЮЗИВНЫЕ ПРЕДЛОЖЕНИЯ</h2>
+                <div class="bonus-title">
+                    <img src="wp-content/themes/flat-responsive/images/title-block.png" alt="">
                 </div>
                 <article class="action-post col-md-4 col-sm-6 col-xs-12">
                     <div class="padding" data-mh="offers">

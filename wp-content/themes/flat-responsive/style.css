@@ -4962,6 +4962,7 @@ ul, li{
 	position: relative;
 	min-height: 300px;
 	margin-bottom: 20px;
+	background: #fff;
 }
 
 .padding:hover{
@@ -4992,12 +4993,10 @@ ul, li{
 	background-color: #000;
 	color: #fff;
 }
-#features article{
-	padding-left: 10px !important;
-	padding-right: 10px !important;
-}
+
 #features {
 	padding-bottom: 20px;
+	background-image: url("images/background.png");
 }
 #last-video{
 	padding-bottom: 20px;
@@ -5027,4 +5026,18 @@ ul, li{
 
 .post-one-bonus a:hover{
 	color: #f36f2e;
+}
+
+.bonus-title{
+	text-align: center;
+	padding: 10px;
+}
+.bonus-title img{
+	width: 700px;
+}
+
+@media screen and (max-width: 769px){
+	.bonus-title img{
+		width: 100%;
+	}
 }
