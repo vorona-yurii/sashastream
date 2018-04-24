@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-24T07:13:56+00:00\n"
+"Last-Translator: SedLex <http://www.sedlex.fr/>\n"
+"Last-Translator: wkpixearts <wkpixeartsforall@gmail.com>\n"
+"Last-Translator: jlmcreation <http://www.jlmcreation.fr>\n"
+"Last-Translator: ValerieMadej <valerie.madej@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: France\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "This plugin enables multiple favicon for your website"
+msgstr "Le plugin active plusieurs favicon pour votre site web"
+
+msgid "Default Favicon"
+msgstr "FavIcon par défaut"
+
+msgid "The default favicon image:"
+msgstr "L&#039;image FavIcon par défaut :"
+
+msgid "An error occurred!"
+msgstr "Une erreur s&#039;est produite!"
+
+msgid "You may add ICO, PNG, GIF, JPG and BMP files. It will be converted into a multiresolution ico file."
+msgstr "Vous pouvez ajouter des fichiers ICO, PNG, GIF, JPG et BMP. Ils seront convertis en des fichiers multirésoltutions."
+
+msgid "The multiresolution ICO is stored %shere%s"
+msgstr "L&#039;icône ayant une multiresolution est stockée %sici%s"
+
+msgid "The multiresolution ICO has been generated and is stored %shere%s"
+msgstr "L&#039;icône ayant une multiresolution a été générée et est stockée %sici%s"
+
+msgid "No ICO has been generated because this file is incompatible... Sorry !"
+msgstr "Aucune icône n&#039;a été générée car le fichier est incompatible ... Désolé !"
+
+msgid "Custom Favicon n°%s"
+msgstr "FavIcon personnalisé n%s"
+
+msgid "The regexp rule for the image n°%s:"
+msgstr "La règle regexp pour l&#039;image n%s:"
+
+msgid "Custom favicon image n°%s:"
+msgstr "Personnaliser l&#039;image FavIcon n%s:"
+
+msgid "Add a new customized Favicon"
+msgstr "Ajouter un nouvel FavIcon personnalisé"
+
+msgid "The new regexp rule:"
+msgstr "La nouvelle règle regexp:"
+
+msgid "For instance, %s to have a specific icon for admin page"
+msgstr "Par exemple, %s pour avoir une icône spécifique pour les pages d&#039;administration"
+
+msgid "A new image icon:"
+msgstr "Nouvelle image pour FavIcon"
+
+msgid "Parameters"
+msgstr "Paramètres"
+
+msgid "Manage translations"
+msgstr "Gérer les traductions"
+
+msgid "Give feedback"
+msgstr "Donner un retour d&#039;expérience"
+
+msgid "Other plugins"
+msgstr "Autres Extensions"
+
+msgid "For instance, %s to have a specific icon for admin page or %s for posts having the word important in their titles"
+msgstr "Par exemple,%s pour avoir une icône spécifique pour la page d&#039;administration ou %s pour les postes ayant le mot important dans leurs titres"
+
+msgid "Please note that if you delete the regexp, these entry will be deleted"
+msgstr "Veuillez noter que si vous supprimez l&#039;expression rationnelle, ce bulletin sera supprimé"
+
+msgid "This plugin is designed to change dynamically the favicon of your website."
+msgstr "Ce plugin est conçu pour modifier dynamiquement le favicon de votre site/blog"
+
+msgid "Purpose of that plugin"
+msgstr "le but de ce plugin"
+
+msgid "You just have to upload a first image (preferably a squared image) that will be used for default favicon: the favicon will be automatically created in the right format."
+msgstr "Vous devez juste télécharger une première image (de préférence une image carré) qui sera utilisée comme favicon par défaut : le favicon sera automatiquement créé dans le bon format"
+
+msgid "If you want to add a specific favicon for specific pages, you will have to upload a new image and to associate it with a regular expression (e.g. %s) which match the wanted URL (e.g. %s)."
+msgstr "Si vous désirez ajouter un favicon spécifique à des pages spécifiques, vous devrez télécharger une nouvelle image et l&#039;associer avec une expression régulière (par exemple %s) qui devra correspondre avec l&#039;URL voulue (par exemple %s)"
+
+msgid "How to have different favicons?"
+msgstr "Comment avoir plusieurs favicons différents ?"
+
+msgid "This plugin works on multisite instalations."
+msgstr "Ce plugin fonctionne sur les installations multisites"
+
+msgid "Each blog work independently: they all can have their own favicon system."
+msgstr "Chaque blog étant indépendants les uns des autres : ils peuvent avoir leur propre système de favicon"
+
+msgid "How this plugin works of MU websites?"
+msgstr "Comment ce plugin fonctionne-t-il sur des site MU ?"
+
+msgid "How To"
+msgstr "Comment"
+

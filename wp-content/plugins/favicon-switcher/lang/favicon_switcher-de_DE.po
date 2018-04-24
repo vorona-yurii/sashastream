@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-07T13:10:38+00:00\n"
+"Last-Translator: Gahapati <gahapati@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: Germany\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "Default Favicon"
+msgstr "Standard-Favicon"
+
+msgid "The default favicon image:"
+msgstr "Standard-Favicon-Bilddatei"
+
+msgid "An error occurred!"
+msgstr "Ein Fehler ist aufgetreten."
+
+msgid "You may add ICO, PNG, GIF, JPG and BMP files. It will be converted into a multiresolution ico file."
+msgstr "Sie können eine Datei im Format ICO, PNG, JPG und BMP verwenden. Sie wird in eine ICO-Datei mit Mehrfachauflösung umgewandel."
+
+msgid "The multiresolution ICO is stored %shere%s"
+msgstr "Die ICO-Datei mit Mehrfachauflösung befindet sich %shier%s"
+
+msgid "The multiresolution ICO has been generated and is stored %shere%s"
+msgstr "Eine ICO-Datei mit Mehrfachauflösung wurde generiert. Sie befindet sich %shier%s"
+
+msgid "No ICO has been generated because this file is incompatible... Sorry !"
+msgstr "Bedaure, es konnte keine ICO-Datei generiert werden. Datei ist imkompatibel."
+
+msgid "Custom Favicon n°%s"
+msgstr "Eigenes Favicon Nr. %s."
+
+msgid "The regexp rule for the image n°%s:"
+msgstr "Regulärer Ausdruck (regexp) für Favicon Nr. %s:"
+
+msgid "For instance, %s to have a specific icon for admin page or %s for posts having the word important in their titles"
+msgstr "Beispielsweise %s (Eigenes Favicon auf Admin-Seiten) oder %s (Beiträge mit einem dieser Worte im Titel)"
+
+msgid "Please note that if you delete the regexp, these entry will be deleted"
+msgstr "Achtung: durch Löschen des Regulären Ausdrucks wird der gesamte Eintrag gelöscht"
+
+msgid "Custom favicon image n°%s:"
+msgstr "Eigene Favicon-Bilddatei Nr. %s."
+
+msgid "Add a new customized Favicon"
+msgstr "Neues Favicon hinzufügen"
+
+msgid "The new regexp rule:"
+msgstr "Neuer Regulärer Ausdruck (regexp):"
+
+msgid "For instance, %s to have a specific icon for admin page"
+msgstr "Beispielsweise %s für ein Favicon auf allen Admin-Seiten."
+
+msgid "A new image icon:"
+msgstr "Neue Bilddatei"
+
+msgid "Parameters"
+msgstr "Einstellungen"
+
+msgid "This plugin is designed to change dynamically the favicon of your website."
+msgstr "Dieses Plugin dient dazu, das Favicon auf Ihrer Website dynamisch zu wechseln."
+
+msgid "Purpose of that plugin"
+msgstr "Zweck des Plugins"
+
+msgid "You just have to upload a first image (preferably a squared image) that will be used for default favicon: the favicon will be automatically created in the right format."
+msgstr "Sie brauchen nur eine (vorzugsweise quadratische) Bilddatei hochzuladen, die als Standard-Favicon verwendet werden soll: das benötigte Favicon-Format wird automatisch erzeugt."
+
+msgid "If you want to add a specific favicon for specific pages, you will have to upload a new image and to associate it with a regular expression (e.g. %s) which match the wanted URL (e.g. %s)."
+msgstr "Möchten Sie ein eigenes Favicon für spezielle Seiten, müssen Sie eine weitere Bilddatei hochladen und diese mit einem Regulären Ausdruck (z.B. %s) verknüpfen, welcher der gewünschten URL entspricht (z.B. %s)."
+
+msgid "How to have different favicons?"
+msgstr "Wie richtet man unterschiedliche Favicons ein?"
+
+msgid "This plugin works on multisite instalations."
+msgstr "Das Plugin ist multisite-kompatibel, wenngleich ohne spezielle Multisite-Funktionalität."
+
+msgid "Each blog work independently: they all can have their own favicon system."
+msgstr "Das Plugin muß für jeden Blog einzeln aktiviert werden. Jeder Blog hat seine eigenen Favicon-Einstellungen."
+
+msgid "How this plugin works of MU websites?"
+msgstr "Wie verträgt sich das Plugin mit Multisite-Installationen?"
+
+msgid "How To"
+msgstr "Anleitung"
+
+msgid "Manage translations"
+msgstr "Übersetzungen"
+
+msgid "Give feedback"
+msgstr "Rückmeldung"
+
+msgid "Other plugins"
+msgstr "Weitere Plugins"
+

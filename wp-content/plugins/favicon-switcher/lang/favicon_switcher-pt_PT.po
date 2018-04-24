@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-12-29T17:09:10+00:00\n"
+"Last-Translator: NunoVieira <nunovieira@nuviware.pt>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: Portugal\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "This plugin enables multiple favicon for your website"
+msgstr "Este plugin permite ter múltiplos favicon no seu site"
+
+msgid "Default Favicon"
+msgstr "Favicon por defeito"
+
+msgid "The default favicon image:"
+msgstr "Imagem do favicon por defeito:"
+
+msgid "An error occurred!"
+msgstr "Ocorreu um erro!"
+
+msgid "You may add ICO, PNG, GIF, JPG and BMP files. It will be converted into a multiresolution ico file."
+msgstr "Você pode adicionar ficheiros ICO, PNG, GIF, JPG e BMP. Será convertido num ficheiro ICO multiresolução."
+
+msgid "The multiresolution ICO is stored %shere%s"
+msgstr "O ficheiro ICO multiresolução foi guardado %saqui%s"
+
+msgid "The multiresolution ICO has been generated and is stored %shere%s"
+msgstr "O ficheiro ICO multiresolução foi gerado e foi guardado %saqui%s"
+
+msgid "No ICO has been generated because this file is incompatible... Sorry !"
+msgstr "Não foi gerado o ICO porque este ficheiro é incompatível ... Desculpe!"
+
+msgid "Custom Favicon n°%s"
+msgstr "Favicon personalizado n.°%s"
+
+msgid "The regexp rule for the image n°%s:"
+msgstr "A regra da regexp para a imagem n.°%s:"
+
+msgid "For instance, %s to have a specific icon for admin page or %s for posts having the word important in their titles"
+msgstr "Por exemplo, %s para ter um ícone específico para a página de administração ou %s para mensagens com a palavra importante nos seus títulos"
+
+msgid "Please note that if you delete the regexp, these entry will be deleted"
+msgstr "Por favor tenha atenção que se excluir a regexp, esta entrada será excluída"
+
+msgid "Custom favicon image n°%s:"
+msgstr "Imagem favicon personalizada n.°%s:"
+
+msgid "Add a new customized Favicon"
+msgstr "Adicionar um novo favicon personalizado"
+
+msgid "The new regexp rule:"
+msgstr "Nova regra da regexp:"
+
+msgid "For instance, %s to have a specific icon for admin page"
+msgstr "Por exemplo, %s para ter um ícone específico para a página de administração"
+
+msgid "A new image icon:"
+msgstr "Novo icon de imagem:"
+
+msgid "Parameters"
+msgstr "Parâmetros"
+
+msgid "Manage translations"
+msgstr "Gerir traduções"
+
+msgid "Give feedback"
+msgstr "Comentar"
+
+msgid "Other plugins"
+msgstr "Outros plugins"
+

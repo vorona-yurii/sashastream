@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-04T20:26:35+00:00\n"
+"Last-Translator: webbuster.nl <matthijs@webbuster.nl>\n"
+"Last-Translator: Tieneks <tieneks.us>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: Netherlands\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "This plugin enables multiple favicon for your website"
+msgstr "Deze plugins voegt meerdere favicons toe aan je website"
+
+msgid "Default Favicon"
+msgstr "Standaard favicon"
+
+msgid "The default favicon image:"
+msgstr "De standaard favicon afbeelding"
+
+msgid "An error occurred!"
+msgstr "Er heeft zich een fout voorgedaan!"
+
+msgid "You may add ICO, PNG, GIF, JPG and BMP files. It will be converted into a multiresolution ico file."
+msgstr "Je kunt ICO, PNG, GIF, JPG en BMP-bestanden gebruiken, deze worden geconverteerd naar een multiresolutie ICO-bestand"
+
+msgid "The multiresolution ICO is stored %shere%s"
+msgstr "Het multiresolutiebestand is %shier%s opgeslagen"
+
+msgid "The multiresolution ICO has been generated and is stored %shere%s"
+msgstr "Het multiresolutiebestand is aangemaakt en %shier%s opgeslagen"
+
+msgid "No ICO has been generated because this file is incompatible... Sorry !"
+msgstr "Er is geen ICO-bestand aangemaakt, omdat het bestand niet ondersteund is!"
+
+msgid "Custom Favicon n°%s"
+msgstr "Aangepaste favicon nÂ°%s"
+
+msgid "The regexp rule for the image n°%s:"
+msgstr "De reguliere expressieregel voor de afbeelding nÂ°%s:"
+
+msgid "For instance, %s to have a specific icon for admin page or %s for posts having the word important in their titles"
+msgstr "Bijvoorbeeld, %s om een aparte favicon voor het dashboard of %s voor berichten met het woord belangrijk in de titel"
+
+msgid "Please note that if you delete the regexp, these entry will be deleted"
+msgstr "Onthoud dat als je de reguliere expressie verwijdert, de hele regel wordt verwijderd"
+
+msgid "Custom favicon image n°%s:"
+msgstr "Aangepaste favicon nÂ°%s"
+
+msgid "Add a new customized Favicon"
+msgstr "Voeg een nieuwe aangepaste favicon toe"
+
+msgid "The new regexp rule:"
+msgstr "De nieuwe regexp-regel:"
+
+msgid "For instance, %s to have a specific icon for admin page"
+msgstr "Bijvoorbeeld %s om een specifieke icon the gebruiken voor het dashboard"
+
+msgid "A new image icon:"
+msgstr "Een nieuw afbeeldingsicoon:"
+
+msgid "Parameters"
+msgstr "Instellingen"
+
+msgid "Manage translations"
+msgstr "Beheer vertalingen"
+
+msgid "Give feedback"
+msgstr "Geef feedback"
+
+msgid "Other plugins"
+msgstr "Andere plugins"
+
+msgid "This plugin is designed to change dynamically the favicon of your website."
+msgstr "Deze plugin is ontworpen om automatisch de favicon van je website aan te passen."
+
+msgid "Purpose of that plugin"
+msgstr "Doel van de plugin"
+
+msgid "You just have to upload a first image (preferably a squared image) that will be used for default favicon: the favicon will be automatically created in the right format."
+msgstr "Upload een eerste afbeelding (bij voorkeur vierkant) die gebruikt zal worden als standaard favicon: de favicon zal automatisch in het juiste bestandsformaat aangemaakt worden."
+
+msgid "If you want to add a specific favicon for specific pages, you will have to upload a new image and to associate it with a regular expression (e.g. %s) which match the wanted URL (e.g. %s)."
+msgstr "Als je een bepaalde favicon wil toewijzen aan een pagina, upload je een nieuwe afbeelding en wijs je deze toe middels een reguliere expressie (bv. %s) die overeenkomt met de gewenste URL (bv. %s)."
+
+msgid "How to have different favicons?"
+msgstr "Hoe kan je verschillende favicons aanmaken?"
+
+msgid "This plugin works on multisite instalations."
+msgstr "Deze plugin werkt ook met multisite-installaties."
+
+msgid "Each blog work independently: they all can have their own favicon system."
+msgstr "Elke blog werkt onafhankelijk: ze kunnen allemaal hun eigen favicon-systeem hebben."
+
+msgid "How this plugin works of MU websites?"
+msgstr "Hoe werkt deze plugin van MU-websites?"
+
+msgid "How To"
+msgstr "Hoe moet je"
+
